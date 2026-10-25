@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /
+# At launch: delete the Disallow line and the noindex meta tag in every page
+Sitemap: https://YOUR-DOMAIN/sitemap.xml
